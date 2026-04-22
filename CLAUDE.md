@@ -33,7 +33,8 @@ mycalendar/
 |-- CLAUDE.md
 `-- src
     `-- mycalendar
-        |-- __init__.py           # Core calendar logic
+        |-- __init__.py           # Public API (re-exports from utils)
+        |-- utils.py              # Core calendar logic and utility functions
         |-- __main__.py           # CLI entry point
         |-- parameters            # Configurable parameters
         |   |-- __init__.py
