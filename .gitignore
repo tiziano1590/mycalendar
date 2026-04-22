@@ -84,3 +84,6 @@ src/mycalendar.egg-info/
 
 # macOS
 .DS_Store
+
+# GitHub rules
+.cursor/rules/
