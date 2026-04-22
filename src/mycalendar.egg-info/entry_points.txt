@@ -1,0 +1,2 @@
+[console_scripts]
+mycalendar = mycalendar.__main__:main
