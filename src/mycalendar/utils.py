@@ -80,7 +80,7 @@ def print_current_month(
     cal_output = calendar_month(year, month, w=0, l=0)
     print(cal_output)
     print("-" * 40)
-    print(f"Current date: {today.strftime('%B %d, %Y')} (highlighted)")
+    print(f"Current date: {today.strftime('%B %d, %Y')}")
     print()
 
     # Print detailed calendar using calendar.month
