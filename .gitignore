@@ -87,3 +87,6 @@ src/mycalendar.egg-info/
 
 # GitHub rules
 .cursor/rules/
+
+# mycalendar
+CLAUDE.md
