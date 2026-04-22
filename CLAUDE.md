@@ -29,6 +29,7 @@ mycalendar/
 |-- LICENSE
 |-- README.md
 |-- pyproject.toml
+|-- .gitignore
 |-- CLAUDE.md
 `-- src
     `-- mycalendar
